@@ -10,8 +10,8 @@ The Student Performance Analysis project is a data-driven application designed t
 *   **Performance Comparison:** Compare average distributions across math, reading, and writing scores.
 *   **Actionable Insights** 
 
-
-```text
+**Structure:**
+```
 ├──  StudentsPerformance.csv     # Raw dataset file
 ├──  Student_Performance_Analysis.ipynb # Complete Jupyter Notebook with code
 ├── README.md                     # Project documentation
